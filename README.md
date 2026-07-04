@@ -24,7 +24,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm **Shivam Kourav**
 
-### 💻 Java Developer • DSA Enthusiast • Full Stack Learner • AI Explorer
+### 💻  Frontend Developer • DSA Enthusiast • Full Stack Learner • AI Explorer
 
 I am a passionate **Computer Science Engineering** student who enjoys solving challenging problems, building scalable applications, and continuously improving software engineering skills.
 
@@ -41,7 +41,7 @@ Name:
   Shivam Kourav
 
 Role:
-  Java Developer
+  frontend Developer
 
 Education:
   Bachelor of Technology
@@ -80,7 +80,6 @@ Location:
 
 # 🌟 Current Journey
 
-- ☕ Mastering Java
 - 📚 Solving LeetCode Problems Daily
 - 🚀 Building MERN Stack Projects
 - 🤖 Exploring Artificial Intelligence
