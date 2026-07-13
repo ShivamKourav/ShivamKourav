@@ -1,74 +1,189 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Shivam%20Kourav&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,50:203A43,100:2C5364&text=Shivam%20Kourav&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20Full%20Stack%20Developer%20|%20AI%20Explorer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Shivam+Kourav;Java+Developer;Full+Stack+Developer;DSA+Enthusiast;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Shivam+Kourav;Java+Developer;Full+Stack+Developer;DSA+Enthusiast;Building+MERN+Projects;Always+Learning+Something+New"/>
 
-<img src="https://komarev.com/ghpvc/?username=ShivamKourav&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+<br>
+
+<img src="https://img.shields.io/badge/Open%20Source-Learner-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MERN-Stack-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Explorer-purple?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+# 🚀 About Me
 
-- 🎓 B.Tech Computer Science Engineering Student
-- 💻 Java Developer
-- 🌐 Full Stack Developer (MERN)
-- 📚 Solving DSA Problems Daily
-- 🤖 Learning Artificial Intelligence
+```yaml
+Name:
+  Shivam Kourav
+
+Role:
+  Full Stack Developer
+
+Education:
+  Bachelor of Technology
+  Computer Science Engineering
+
+Current Focus:
+  - Java
+  - Data Structures & Algorithms
+  - React.js
+  - Tailwind CSS
+  - Node.js
+  - Express.js
+  - MongoDB
+  - Git & GitHub
+
+Learning:
+  - System Design
+  - Artificial Intelligence
+  - Cloud Computing
+
+Goal:
+  Software Engineer
+
+Currently Building:
+  - Face Detection System
+  - MERN Stack Projects
+  - Java DSA Repository
+  - AI Based Applications
+
+Location:
+  India
+```
+
+---
+
+# 🌱 Current Journey
+
+- 📚 Solving LeetCode Problems Daily
+- ☕ Improving Java Skills
+- 🌐 Building Full Stack Projects
+- ⚛️ Learning React Ecosystem
+- 🧠 Exploring Artificial Intelligence
+- 💻 Practicing DSA Every Day
 - 🚀 Preparing for Software Engineering Roles
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-## Languages
+## 🚀 Languages
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=java,javascript,c,cpp,html,css"/>
-</p>
 
-## Frontend
+</div>
 
-<p align="center">
+---
+
+## ⚛️ Frontend
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
-</p>
 
-## Backend
+</div>
 
-<p align="center">
+---
+
+## ⚙️ Backend
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
 
-## Database
+</div>
 
-<p align="center">
+---
+
+## 🗄 Database
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
 
-## Tools
+</div>
 
-<p align="center">
+---
+
+## 🛠 Tools
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
-</p>
+
+</div>
+
+---
+
+# 🎯 Areas of Interest
+
+- ☕ Java Development
+- 🧠 Data Structures & Algorithms
+- 🌐 Full Stack Web Development
+- ⚛️ React Ecosystem
+- ⚙️ Backend Development
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Computing
+- 🚀 Software Engineering
+
+---
+
+# 📌 Quick Highlights
+
+| 🚀 Category | 💯 Status |
+|-------------|-----------|
+| ☕ Java | Primary Language |
+| 📚 DSA | Daily Practice |
+| 🌐 MERN | Learning & Building |
+| 🤖 AI | Exploring |
+| 💻 Projects | Active |
+| 🎯 Goal | Software Engineer |
+
+---
+
+<div align="center">
+
+## 💡 Developer Philosophy
+
+> **"Consistency beats talent when talent doesn't stay consistent."**
+
+</div>
 
 ---
 
 # 🌱 Currently Learning
 
-- Java
-- Data Structures & Algorithms
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- System Design
-- Artificial Intelligence
+```text
+Java                     ████████████████████
+
+DSA                      ██████████████████
+
+React.js                 ███████████████
+
+Node.js                  ████████████
+
+Express.js               ██████████
+
+MongoDB                  █████████
+
+System Design            ██████
+
+Artificial Intelligence  █████
+```
 
 ---
 
-# 💼 Featured Projects
+# 🚀 Featured Projects
 
 ## 🤖 Face Detection System
 
@@ -76,7 +191,8 @@
 - Node.js
 - Express.js
 - MongoDB
-- Face API
+- Face Detection
+- Modern UI
 
 ---
 
@@ -85,7 +201,6 @@
 - Arrays
 - Strings
 - Binary Search
-- Linked List
 - Trees
 - Graphs
 - Dynamic Programming
@@ -99,22 +214,44 @@
 - REST APIs
 - Dashboard UI
 
+# 🎯 2026 Goals
+
+- ✅ Solve **500+ LeetCode** Problems
+- ✅ Master **Java & DSA**
+- ✅ Become **MERN Stack Developer**
+- ✅ Learn **System Design**
+- ✅ Build **AI Powered Projects**
+- ✅ Contribute to **Open Source**
+- ✅ Crack **Product-Based Companies**
+- ✅ Become a **Software Engineer**
+
 ---
 
-# 🎯 Goals
+# 📈 Learning Progress
 
-- ✅ Solve 500+ LeetCode Problems
-- ✅ Master Java
-- ✅ Master MERN Stack
-- ✅ Learn System Design
-- ✅ Build AI Projects
-- ✅ Crack Product-Based Companies
+```text
+Java                     ████████████████████ 95%
+
+Data Structures          ██████████████████   90%
+
+React.js                 ███████████████      80%
+
+Node.js                  ████████████         70%
+
+Express.js               ██████████           65%
+
+MongoDB                  █████████            60%
+
+Artificial Intelligence  █████                35%
+
+System Design            ██████               40%
+```
 
 ---
 
-# 🌐 Connect With Me
+# 💻 Coding Profiles
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/ShivamKourav">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -132,22 +269,143 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 💭 Quote
+# 🏅 Achievements
 
-> **"Consistency beats talent when talent doesn't stay consistent."**
+🏆 Java Developer
+
+💻 Full Stack Developer
+
+📚 DSA Enthusiast
+
+🤖 AI Explorer
+
+🚀 Open Source Learner
+
+🌱 Continuous Learner
+
+---
+
+# 🛠 Tech Expertise
+
+```text
+☕ Java                 ████████████████████
+
+📚 Data Structures      ██████████████████
+
+🧠 Algorithms           █████████████████
+
+⚛️ React.js            ███████████████
+
+🟢 Node.js             ████████████
+
+⚙️ Express.js          ███████████
+
+🍃 MongoDB             ███████████
+
+🐙 Git & GitHub        ███████████████
+
+💡 Problem Solving     ███████████████
+```
+
+---
+
+# 🚀 Developer Mindset
+
+```text
+Learn 📚
+
+      ↓
+
+Practice 💻
+
+      ↓
+
+Build 🚀
+
+      ↓
+
+Solve Problems 🧠
+
+      ↓
+
+Improve ⭐
+
+      ↓
+
+Repeat 🔁
+```
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:kouravshivam07@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-kouravshivam07%40gmail.com-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/ShivamKourav">
+<img src="https://img.shields.io/badge/GitHub-ShivamKourav-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/shivam-kourav-519250333">
+<img src="https://img.shields.io/badge/LinkedIn-Shivam%20Kourav-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/shivamkourav1231/">
+<img src="https://img.shields.io/badge/LeetCode-shivamkourav1231-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</div>
+
+---
+
+# ❤️ Support My Work
+
+<div align="center">
+
+If you like my work,
+
+⭐ Star my repositories
+
+🍴 Fork them
+
+🤝 Contribute
+
+💬 Give feedback
+
+</div>
+
+---
+
+# 💭 Favorite Quote
+
+<div align="center">
+
+> **"The more you build, the more you learn. The more you learn, the more you grow."**
+
+</div>
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for Visiting ⭐
+## 🚀 Thanks for Visiting My Profile
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Happy+Coding!;Keep+Learning!;Keep+Building!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Thank+You+For+Visiting!;Happy+Coding!;Keep+Learning!;Keep+Building!;See+You+Again!"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
+- Responsive Design
+
+---
