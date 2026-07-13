@@ -68,8 +68,6 @@
 
 ---
 
----
-
 # 📊 GitHub & LeetCode Stats
 
 <div align="center">
@@ -107,6 +105,19 @@
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivamKourav&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
+
+## 🐍 Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/ShaktiKourav/ShaktiKourav/output/github-contribution-grid-snake.svg" />
+</picture></div>
+
+---
+
 
 ---
 
