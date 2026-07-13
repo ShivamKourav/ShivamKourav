@@ -70,6 +70,32 @@
 
 
 
+---
+
+# 📊 GitHub & LeetCode Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivamKourav&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamKourav&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKourav&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+## 🏆 LeetCode Stats
+
+<img src="https://leetcard.jacoblin.cool/shivamkourav1231?theme=dark&font=Poppins&ext=contest"/>
+
+</div>
+
+---
+
+
+
 # 🌐 Connect With Me
 
 <p align="center">
