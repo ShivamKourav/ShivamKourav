@@ -68,8 +68,6 @@
 
 ---
 
-
-
 ---
 
 # 📊 GitHub & LeetCode Stats
@@ -84,16 +82,43 @@
 
 </div>
 
+---
+
+# 📈 Contribution Graph
+
 <div align="center">
 
-## 🏆 LeetCode Stats
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamKourav&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivamKourav&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivamKourav&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShivamKourav&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivamKourav&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivamKourav&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 🏆 LeetCode Stats
+
+<div align="center">
 
 <img src="https://leetcard.jacoblin.cool/shivamkourav1231?theme=dark&font=Poppins&ext=contest"/>
 
 </div>
 
 ---
-
 
 
 # 🌐 Connect With Me
